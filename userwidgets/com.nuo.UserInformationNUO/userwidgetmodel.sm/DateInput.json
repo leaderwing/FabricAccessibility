@@ -1,0 +1,177 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_skin_": "s04caf1d22ba4135af1acb3c13ba1f0d",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "DateInput": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "he0d435b133141e2b3298406e4092fdf",
+                "srcKUID": "b2211a78f0fd452d9125dce4ea10c0f4",
+                "wType": "FlexContainer"
+            },
+            "isVisible": true,
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "30dp"
+                }
+            },
+            "responsiveData": {},
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": "30dp"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "20dp"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "ref",
+                    "value": "preferred"
+                }
+            }
+        },
+        "flxDateInputKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cd3beecb992e475fa36c506d89e39c81",
+                "srcKUID": "da44411028864b2da0125da0924fad08",
+                "wType": "FlexContainer"
+            },
+            "layoutType": 2,
+            "responsiveData": {},
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            }
+        },
+        "flxSeparator": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h363904fbc1d4d1ebbfdc138a6aa03b5",
+                "srcKUID": "d6b0af495e044da4a5d662b8e8c5fe19",
+                "wType": "FlexContainer"
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            },
+            "responsiveData": {},
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            }
+        },
+        "lblDatePlaceholderKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cb863fff582d4dc7891b50644a3e1ee0",
+                "srcKUID": "c3e5f81d87664b1fb179debe469173ea",
+                "wType": "Label"
+            }
+        },
+        "lblEnteredDateKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h6518aead04a42fcb214286fbae36362",
+                "srcKUID": "b63ffa6b75244160a9f240e6b906c520",
+                "wType": "Label"
+            }
+        },
+        "tbxDateInputKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a18b33a5a2244920b16c5a22a6866346",
+                "srcKUID": "j4522b447c2d4aea85ad04da0d02449b",
+                "wType": "TextField"
+            },
+            "bottom": {
+                "Default": {
+                    "type": "string",
+                    "value": "1dp"
+                }
+            },
+            "text": ""
+        }
+    },
+    "enablescrolling": true,
+    "id": "DateInput",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "issegmentchild": false,
+    "isvisible": true,
+    "kuid": "he0d435b133141e2b3298406e4092fdf",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "FlexGroup0g8224fc2409f4d",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "b2211a78f0fd452d9125dce4ea10c0f4",
+    "wType": "UserWidgetInstance"
+}

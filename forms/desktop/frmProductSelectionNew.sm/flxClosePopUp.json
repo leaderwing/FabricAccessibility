@@ -1,0 +1,72 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s7d2f568236547d4be3fe73887594172",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "closePopUp"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxClosePopUp",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "cde87945295d4414b461d6a1533f86f3",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxDialogs",
+    "pf": "frmProductSelectionNew",
+    "responsiveconfig": {
+        "offset": {
+            "b2": 0,
+            "b3": 0,
+            "b4": 0
+        },
+        "span": {
+            "b2": 4,
+            "b3": 6,
+            "b4": 3
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 15
+}

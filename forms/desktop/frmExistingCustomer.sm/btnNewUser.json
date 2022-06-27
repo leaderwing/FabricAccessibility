@@ -1,0 +1,141 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s458e403bdae4789b347d753ac402039",
+    "_text_": "Start New Application",
+    "_top_": {
+        "type": "string",
+        "value": "21%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "accessibilityconfig": {
+        "a11yLabel": "Start New Application"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s1a5f35cafb14b05963ac55bccd9358a"
+        }
+    },
+    "disabledSkins": {
+        "blockedUISkin": "sbdd0ec38d6e410aa3139b7ce411385b"
+    },
+    "displaytext": true,
+    "focusskin": "s81c79bc40a442038fc2ebbe6a0d9ea6",
+    "hoverskin": "",
+    "id": "btnNewUser",
+    "ide_onClick": "AS_Button_d189b93ab38d48ecaee34a1ef3b541b9",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "i143f276bf8c4b4fa3680e88592bb918",
+    "name": "kony.ui.Button",
+    "parent": "flxNewUser",
+    "pf": "frmExistingCustomer",
+    "responsiveData": {
+        "b2": {
+            "desktopweb": {
+                "psp": {}
+            },
+            "disabledSkins": {},
+            "height": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "22.49%"
+            },
+            "top": {
+                "type": "string",
+                "value": "70%"
+            },
+            "width": {
+                "type": "string",
+                "value": "55%"
+            }
+        },
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "desktopweb": {
+                "psp": {}
+            },
+            "disabledSkins": {},
+            "height": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "isVisible": true,
+            "left": {
+                "type": "string",
+                "value": "32%"
+            },
+            "top": {
+                "type": "string",
+                "value": "180dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "180dp"
+            }
+        },
+        "b4": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "desktopweb": {
+                "psp": {}
+            },
+            "disabledSkins": {},
+            "height": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "10dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "180dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

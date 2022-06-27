@@ -1,0 +1,99 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "83dp"
+    },
+    "_skin_": "s04caf1d22ba4135af1acb3c13ba1f0d",
+    "_width_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "lblSignOut",
+        "imgSignOut"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "desktop": {
+        "responsiveconfig": {
+            "offset": {
+                "b1": 0,
+                "b2": 0,
+                "b3": 0
+            },
+            "span": {
+                "b1": 3,
+                "b2": 4,
+                "b3": 6
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "flxSignOut",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "ea0300830ad94184b1c2cdf1d88da42a",
+    "layouttype": 2,
+    "mobile": {
+        "responsiveconfig": {
+            "offset": {
+                "landscape": 0,
+                "portrait": 0
+            },
+            "span": {
+                "landscape": 6,
+                "portrait": 12
+            }
+        }
+    },
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxTopMain",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "tablet": {
+        "responsiveconfig": {
+            "offset": {
+                "landscape": 0,
+                "portrait": 0
+            },
+            "span": {
+                "landscape": 3,
+                "portrait": 6
+            }
+        }
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

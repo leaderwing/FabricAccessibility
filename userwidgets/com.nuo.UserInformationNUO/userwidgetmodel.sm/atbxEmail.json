@@ -1,0 +1,157 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_skin_": "s449a5f41a6644269ec4532bbc9b6129",
+    "_top_": {
+        "type": "number",
+        "value": "20"
+    },
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "AnimatedTextBox": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "b4e96f7a78114255bbdba15de3dbf9f5",
+                "srcKUID": "e4f45e5667934e0e9e080905538beaaf",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "40dp"
+                }
+            },
+            "isVisible": true,
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "30dp"
+                }
+            },
+            "responsiveData": {},
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": "30dp"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "number",
+                    "value": "20"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            }
+        },
+        "flxUnderlineKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cedf382a44704c7e97aa433c38b872e5",
+                "srcKUID": "e7efcc16a98849efbed86d3a0a4b6ae8",
+                "wType": "FlexContainer"
+            }
+        },
+        "lblAnimatedKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h858809eb4ff4b309b0df149dddcf20c",
+                "srcKUID": "a5f151fcef4f4df58adcec56cc9882da",
+                "wType": "Label"
+            },
+            "bottom": {
+                "Default": {
+                    "type": "string",
+                    "value": "6dp"
+                }
+            },
+            "i18n_text": "kony.nuo.PersonalInfo.Email",
+            "text": "Email Address"
+        },
+        "lblErrorMsgKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "gc92aed862bb49698de6e6e22609ac5b",
+                "srcKUID": "jdea85c6e8ef44f48484f4834c769116",
+                "wType": "Label"
+            },
+            "isVisible": false
+        },
+        "tbxAnimatedKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f7db06b2eb8b463c890d7ada648ae403",
+                "srcKUID": "dce3198936994da78b441375fe580d80",
+                "wType": "TextField"
+            },
+            "text": "",
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "atbxEmail",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "issegmentchild": false,
+    "isvisible": true,
+    "kuid": "b4e96f7a78114255bbdba15de3dbf9f5",
+    "layouttype": 2,
+    "masterType": 0,
+    "minheight": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "FlexGroup0bd786bce6dc046",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "e4f45e5667934e0e9e080905538beaaf",
+    "wType": "UserWidgetInstance"
+}

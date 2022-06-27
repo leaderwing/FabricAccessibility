@@ -1,0 +1,92 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s668863d9b844604a58c5f362f0e0c46",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "31dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblExistingCustomer",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "fdac18c8646242d8b8186c3e7bb0d106",
+    "name": "kony.ui.Label",
+    "parent": "flxLeftContent",
+    "pf": "frmExistingCustomer",
+    "responsiveData": {
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "3.74%"
+            }
+        },
+        "b3": {
+            "left": {
+                "type": "string",
+                "value": "4.16%"
+            }
+        },
+        "b4": {
+            "left": {
+                "type": "string",
+                "value": "6.25%"
+            },
+            "top": {
+                "type": "string",
+                "value": "23dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.onboarding.existentcustomer.question.customer",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

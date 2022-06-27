@@ -1,0 +1,103 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "17.40%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": ""
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": ""
+    },
+    "_skin_": "se4f44d1b5c540669d3dccb2bf6e1c30",
+    "_text_": "Let's get started ! Open your account in just 5 minutes",
+    "_top_": {
+        "type": "string",
+        "value": "130dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "212dp"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblNewUser",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b282b0778a1a4241b47ba34793afc877",
+    "name": "kony.ui.Label",
+    "parent": "flxNewUser",
+    "pf": "frmExistingCustomer",
+    "responsiveData": {
+        "b2": {
+            "contentAlignment": 5,
+            "height": {
+                "type": "ref",
+                "value": "preferred"
+            }
+        },
+        "b3": {
+            "contentAlignment": 5,
+            "height": {
+                "type": "ref",
+                "value": "preferred"
+            }
+        },
+        "b4": {
+            "contentAlignment": 5,
+            "height": {
+                "type": "ref",
+                "value": "preferred"
+            },
+            "top": {
+                "type": "string",
+                "value": "5dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.onboarding.existentmember.newcustomerDescription",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

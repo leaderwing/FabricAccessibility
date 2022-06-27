@@ -1,0 +1,73 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se4f44d1b5c540669d3dccb2bf6e1c30",
+    "_text_": "(C) Copyright Infinity Online Onboarding. All rights reserved. ",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_wrapping_": 2,
+    "accessibilityconfig": {
+        "a11yLabel": "\\u00a9 Copyright Kony Retail Banking. All rights reserved. Your savings are federally insured to at least $250,000 and backed by the full faith and credit of the Government."
+    },
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblCopyright",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "ee2d73ee228d46d0978a62aae45e4cda",
+    "maxwidth": {
+        "type": "string",
+        "value": "1200dp"
+    },
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "FlexGroup0i041ec2316494d",
+    "pf": "userwidgetmodel",
+    "texti18n": "kony.nuo.common.Copyright",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -1,0 +1,37 @@
+{
+	"AS_Form_fba11383492d4005b43c481525f9909f": {
+		"id": "AS_Form_fba11383492d4005b43c481525f9909f",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"name": "frmIdentityDetails",
+			"type": "forms",
+			"platform": "",
+			"KUID": "d1d0382677224871aeef5dd6eacb5b07"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_b3b375fca47b45d3aeff072313af850c",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "this.view.flxContent.accessibilityConfig = {\n  \"a11yARIA\": {\n    \"role\": \"main\",\n    \"tabindex\": -1\n  }\n}\n\nvar scope = this.view; \n//scopePresonalInfo = this.view;\nthis.view.IdentityDetails.atbxTINNumber.tbxAnimatedKA.onBeginEditing = function(){\nscope.IdentityDetails.flxDropdownIdentityType.setVisibility(false);\nvar scope1 = scope.IdentityDetails.atbxTINNumber;\n          if (scope.IdentityDetails.atbxTINNumber.errorCounter > 0) {\n          scope1.lblErrorMsgKA.setVisibility(false);\n          scope1.flxUnderlineKA.skin = skins.separator;\n          scope1.flxUnderlineKA.height = \"2\";\n          scope1.errorCounter--;\n        }\n        scope1.callAnimationPlace();\n};\n\nthis.view.IdentityDetails.atbxIdNumber.tbxAnimatedKA.onBeginEditing = function(){\nscope.IdentityDetails.flxDropdownIdentityType.setVisibility(false);\nvar scope2 = scope.IdentityDetails.atbxIdNumber;\n          if (scope.IdentityDetails.atbxIdNumber.errorCounter > 0) {\n          scope2.lblErrorMsgKA.setVisibility(false);\n          scope2.flxUnderlineKA.skin = skins.separator;\n          scope2.flxUnderlineKA.height = \"2\";\n          scope2.errorCounter--;\n        }\n        scope2.callAnimationPlace();\n};\n\n",
+				"parentId": null
+			},
+			{
+				"id": "INVOKE_FUNCTION__c60987c4b157484898811c4ca2d9e369",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "preShowForm",
+				"display": "preShowForm",
+				"inputparams": [],
+				"parentId": null,
+				"disabled": null,
+				"source": "controller"
+			}
+		]
+	}
+}

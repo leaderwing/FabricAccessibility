@@ -1,0 +1,144 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_skin_": "s449a5f41a6644269ec4532bbc9b6129",
+    "_top_": {
+        "type": "number",
+        "value": "10"
+    },
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "AnimatedTextBox": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "fa2e5bc2a65547afa9b322247b38bf13",
+                "srcKUID": "e4f45e5667934e0e9e080905538beaaf",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "40dp"
+                }
+            },
+            "isVisible": true,
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "30dp"
+                }
+            },
+            "responsiveData": {},
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": "30dp"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "number",
+                    "value": "10"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            }
+        },
+        "flxUnderlineKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b7315331b50b4510bd43cbacbfc899d9",
+                "srcKUID": "e7efcc16a98849efbed86d3a0a4b6ae8",
+                "wType": "FlexContainer"
+            }
+        },
+        "lblAnimatedKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "i55531bea62141408d7b908d77e1bdd7",
+                "srcKUID": "a5f151fcef4f4df58adcec56cc9882da",
+                "wType": "Label"
+            },
+            "i18n_text": "kony.nuo.PersonalInfo.FirstName",
+            "text": "First Name"
+        },
+        "lblErrorMsgKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a2aab19a5d404a4db251950c441ac11a",
+                "srcKUID": "jdea85c6e8ef44f48484f4834c769116",
+                "wType": "Label"
+            },
+            "isVisible": false
+        },
+        "tbxAnimatedKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fbee6873c8774d1c80f2edf1770395d2",
+                "srcKUID": "dce3198936994da78b441375fe580d80",
+                "wType": "TextField"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "atbxFirstName",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "issegmentchild": false,
+    "isvisible": true,
+    "kuid": "fa2e5bc2a65547afa9b322247b38bf13",
+    "layouttype": 2,
+    "masterType": 0,
+    "minheight": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "FlexGroup0e76b136d49c643",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "e4f45e5667934e0e9e080905538beaaf",
+    "wType": "UserWidgetInstance"
+}

@@ -1,0 +1,103 @@
+{
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": ""
+    },
+    "_height_": {
+        "type": "string",
+        "value": "570dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_skin_": "s345b927e60847f9834fe83268f304fc",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": ""
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "flxQuestions",
+        "flxOptions",
+        "lblExistingCustomer",
+        "flxExistingMemberOptionChooser",
+        "lblCoApplicant",
+        "flxCoApplicantOptionChooser",
+        "flxNote",
+        "lblSeperator1",
+        "flxButtons"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxLeftContent",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "h1a4e3cf85ef46b4b85ed6d6e411d6a4",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "f1",
+    "pf": "frmExistingCustomer",
+    "responsiveData": {
+        "b2": {
+            "height": {
+                "type": "string",
+                "value": "400dp"
+            }
+        },
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "string",
+                "value": "425dp"
+            }
+        },
+        "b4": {
+            "height": {
+                "type": "string",
+                "value": "570dp"
+            },
+            "right": {
+                "type": "string",
+                "value": "10dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": "10",
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

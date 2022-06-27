@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "42dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "83dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s78a5f26c9f14cec9ebed1bb46098f80",
+    "_src_": "logo_onboarding.png",
+    "_top_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "160dp"
+    },
+    "accessibilityconfig": {
+        "a11yLabel": "kony DBX Retail Banking"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "uwu8a6ec125b5849f1b101cb5192deae35",
+        "platform": "desktopweb",
+        "templateType": "userwidgets",
+        "topLevelBox": null
+    },
+    "id": "imgKony",
+    "imagescalemode": 1,
+    "imagewhiledownloading": "img_transparent_1.png",
+    "info": null,
+    "isvisible": true,
+    "kuid": "i89a4c93ab68416c8f6a24b3e85d037c",
+    "name": "kony.ui.Image2",
+    "parent": "flxUpper",
+    "pf": "userwidgetmodel",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

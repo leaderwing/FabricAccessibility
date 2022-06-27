@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc3d37b182924e19b928a1decd4455e1",
+    "_text_": ".",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "accessibilityconfig": {
+        "a11yLabel": "Identity Type"
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 9,
+    "disabledSkins": {
+        "focusSkin": "s61ea6191900430c86fcb7a591de08b2"
+    },
+    "displaytext": true,
+    "id": "btnRowClick",
+    "ide_onClick": "AS_Button_f65de1b797f44751b754da64bd8b5682",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a0529a95d9164a3787f188aa265db1da",
+    "name": "kony.ui.Button",
+    "parent": "CopyflxDropdownKA",
+    "pf": "CopytmpDropdownKA",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

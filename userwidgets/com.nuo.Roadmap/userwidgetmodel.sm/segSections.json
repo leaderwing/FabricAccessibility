@@ -1,0 +1,222 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "03",
+    "desktop": {
+        "_data_": [
+            {
+                "imgDottedLine": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": ""
+                },
+                "imgRowDone": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": ""
+                },
+                "lblInProgress": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "In progress"
+                },
+                "lblRowName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Row name"
+                },
+                "lblRowNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "1"
+                }
+            },
+            {
+                "imgDottedLine": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": ""
+                },
+                "imgRowDone": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": ""
+                },
+                "lblInProgress": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "In progress"
+                },
+                "lblRowName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Row name"
+                },
+                "lblRowNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "2"
+                }
+            },
+            {
+                "imgDottedLine": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": ""
+                },
+                "imgRowDone": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": ""
+                },
+                "lblInProgress": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "In progress"
+                },
+                "lblRowName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Row name"
+                },
+                "lblRowNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "3"
+                }
+            },
+            {
+                "imgDottedLine": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": ""
+                },
+                "imgRowDone": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": ""
+                },
+                "lblInProgress": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "In progress"
+                },
+                "lblRowName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Row name"
+                },
+                "lblRowNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "4"
+                }
+            }
+        ],
+        "rowTemplateId": "c8c85e70cffa4024b76163cf9efe02a4",
+        "rowtemplate": "CopyflxRoadmapRow",
+        "sectionHeaderTemplateId": null,
+        "widgetdatamap": {
+            "CopyflxRoadmapRow": "CopyflxRoadmapRow",
+            "flxCurrentRowIndicator": "flxCurrentRowIndicator",
+            "flxRowCircle": "flxRowCircle",
+            "flxRowContent": "flxRowContent",
+            "imgDottedLine": "imgDottedLine",
+            "imgRowDone": "imgRowDone",
+            "lblInProgress": "lblInProgress",
+            "lblRowName": "lblRowName",
+            "lblRowNumber": "lblRowNumber"
+        }
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segSections",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a94b3197411841e0bb982d0e49589c1a",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxSegment",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowcounter": 3,
+    "rowfocusskin": "s06af371740f4726a20d784e45e5eff8",
+    "rowskin": "sd38eafc98a647198ce474830eec8132",
+    "rowtemplate": "CopyflxRoadmapRow",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sae16d75f38f46e29dff30a6e37c2dc6",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": false,
+    "separatorthickness": 0,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyflxRoadmapRow": "CopyflxRoadmapRow",
+        "flxCurrentRowIndicator": "flxCurrentRowIndicator",
+        "flxRowCircle": "flxRowCircle",
+        "flxRowContent": "flxRowContent",
+        "imgDottedLine": "imgDottedLine",
+        "imgRowDone": "imgRowDone",
+        "lblInProgress": "lblInProgress",
+        "lblRowName": "lblRowName",
+        "lblRowNumber": "lblRowNumber"
+    },
+    "zindex": 1
+}

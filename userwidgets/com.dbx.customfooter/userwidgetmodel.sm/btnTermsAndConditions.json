@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se4cbdf6e51f48eda9966caa941c6a19",
+    "_text_": " Terms & Conditions",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "accessibilityconfig": {
+        "a11yLabel": "Terms & Conditions"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sb6b1dc4c0d64918805aa8e3d5b3630f"
+        }
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "se4cbdf6e51f48eda9966caa941c6a19",
+    "id": "btnTermsAndConditions",
+    "ide_onClick": "AS_Button_d4a6afbfe5b8496f9efcba18d498b4a3",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a9613de4c0cb40d0afdd09fc05d3dc16",
+    "name": "kony.ui.Button",
+    "parent": "flxDesktopLinks",
+    "pf": "userwidgetmodel",
+    "texti18n": "kony.nuo.common.TermsAndConditions",
+    "tooltip": "Terms & Conditions",
+    "wType": "Button",
+    "zindex": 1
+}

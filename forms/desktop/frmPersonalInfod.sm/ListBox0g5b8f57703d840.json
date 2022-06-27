@@ -1,0 +1,99 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_skin_": "scb826f13c77434aae11024e8dab9b2d",
+    "_top_": {
+        "type": "string",
+        "value": "1dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "s86b813d12e94f94aae721efa210186b",
+    "groupcells": false,
+    "id": "ListBox0g5b8f57703d840",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "decaa5c9e33d4da789e3526372e79ea5",
+    "masterdata": [
+        [
+            "lb1",
+            "."
+        ],
+        [
+            "lb2",
+            "Placeholder Two"
+        ],
+        [
+            "lb3",
+            "Placeholder Three"
+        ],
+        [
+            "Key811262027",
+            "Placeholder Four"
+        ],
+        [
+            "Key1835816049",
+            "Placeholder 5"
+        ],
+        [
+            "Key234397474",
+            "Placeholder 6"
+        ],
+        [
+            "Key1441711708",
+            "Placeholder 7"
+        ],
+        [
+            "Key3947370867",
+            "Placeholder 8"
+        ],
+        [
+            "Key2174575624",
+            "Placeholder 9"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "FlexContainer0d0f42d4a76a645",
+    "pf": "frmPersonalInfod",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

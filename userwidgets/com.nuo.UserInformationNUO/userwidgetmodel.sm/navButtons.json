@@ -1,0 +1,147 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "sd0250972daa4c0b90c011bbfac86b29",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "android": {},
+    "androidwearos": {},
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "btnPrimary": {
+            "__events__": {
+                "ide_onClick": "AS_Button_je159d53107e4c96ab7c0c792cdc1f45"
+            },
+            "__info__": {
+                "kuid": "ffcb30db05674ac7899e150d0c836cb4",
+                "srcKUID": "c928779fff194903934252b4cf4fe1a8",
+                "wType": "Button"
+            }
+        },
+        "btnSecondary1": {
+            "__events__": {
+                "ide_onClick": "AS_Button_ff737b6a398e400593011eba00e1b1c0"
+            },
+            "__info__": {
+                "kuid": "be1bb5717da64f46b2bc266374f0c859",
+                "srcKUID": "aeb7d59ab1094f388bb0fbf5c5de465c",
+                "wType": "Button"
+            }
+        },
+        "btnSecondary2": {
+            "__events__": {
+                "ide_onClick": "AS_Button_a37cd3317c3a4e2fa5452e317a229a4b"
+            },
+            "__info__": {
+                "kuid": "a37db7809bd14d458675bcd622ae83f8",
+                "srcKUID": "fc5659f0374f45a1991331008c0e6724",
+                "wType": "Button"
+            }
+        },
+        "flxButtons": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c9b4d92920ba467bbba66443fdc34fa0",
+                "srcKUID": "ed8521b512da4963b874273c635cea24",
+                "wType": "FlexContainer"
+            }
+        },
+        "navButtons": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "a909bbd4e61d479288cbc6e0186cde59",
+                "srcKUID": "b948c23d42024357bfec15fdd9826f23",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "100dp"
+                }
+            },
+            "responsiveData": {}
+        }
+    },
+    "desktopweb": {
+        "ide_onBreakpointChange": "AS_FlexContainer_bb2aba123da142c1a2195ec097c5d28b"
+    },
+    "enablescrolling": true,
+    "id": "navButtons",
+    "info": null,
+    "ipad": {},
+    "iphone": {},
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kiosk": {},
+    "kuid": "a909bbd4e61d479288cbc6e0186cde59",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxBody",
+    "pf": "userwidgetmodel",
+    "responsiveData": {},
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "reverselayoutdirection": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "b948c23d42024357bfec15fdd9826f23",
+    "spa": {},
+    "spaan": {},
+    "spaandroidtablet": {},
+    "spabb": {},
+    "spaip": {},
+    "spaipad": {},
+    "spamobile": {},
+    "spatablet": {},
+    "spawindowstablet": {},
+    "spawinphone8": {},
+    "tabrcandroid": {},
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "UserWidgetInstance",
+    "windows10": {},
+    "windows8": {},
+    "winphone10": {},
+    "winphone8": {}
+}

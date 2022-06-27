@@ -1,0 +1,33 @@
+{
+	"AS_Button_g7ba7ab8bc434198b1f75c13f5acf657": {
+		"id": "AS_Button_g7ba7ab8bc434198b1f75c13f5acf657",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"name": "frmProductSelectionNew",
+			"type": "forms",
+			"platform": "",
+			"KUID": "d43881f13d364c258df5e1c6ef0cee9e"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__f4e4538c72ab485db125ee31b49d86ef",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmExistingCustomer",
+				"friendlyName": "frmExistingCustomer",
+				"formKUID": "b3cf100829da49e8a57e78a1b769a4b9",
+				"mappings": {},
+				"mappingsOrder": [],
+				"enableMappingEditor": true,
+				"package": "",
+				"isCustomInput": false
+			}
+		]
+	}
+}

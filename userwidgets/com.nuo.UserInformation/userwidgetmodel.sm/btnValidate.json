@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se839093950d4ee99da9d124a0b9ac96",
+    "_text_": "Validate",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "accessibilityconfig": {
+        "a11yLabel": "Validate Address"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s4c88ea5040649419fa0156d555105d0"
+        }
+    },
+    "disabledSkins": {
+        "focusSkin": "sf44d06ca8224832827ea7fdff757013"
+    },
+    "displaytext": true,
+    "id": "btnValidate",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ab8864de9da44917a5ddf57b628097dc",
+    "name": "kony.ui.Button",
+    "parent": "flxPostalRecommendation",
+    "pf": "userwidgetmodel",
+    "texti18n": "kony.nuo.PersonalInfo.Validate",
+    "tooltip": "Cancel",
+    "wType": "Button",
+    "zindex": 1
+}

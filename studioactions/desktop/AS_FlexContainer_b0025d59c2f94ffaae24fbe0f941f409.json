@@ -1,0 +1,27 @@
+{
+	"AS_FlexContainer_b0025d59c2f94ffaae24fbe0f941f409": {
+		"id": "AS_FlexContainer_b0025d59c2f94ffaae24fbe0f941f409",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"name": "frmProductSelection",
+			"type": "forms",
+			"platform": "",
+			"KUID": "b811f087da774e4cb228335481ca54be"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_b05ba235b8474550a20cd8774f5cc337",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "this.toggleCheckBox(3);",
+				"parentId": null
+			}
+		]
+	}
+}

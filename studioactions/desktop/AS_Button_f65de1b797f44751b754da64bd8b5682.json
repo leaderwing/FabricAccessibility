@@ -1,0 +1,32 @@
+{
+	"AS_Button_f65de1b797f44751b754da64bd8b5682": {
+		"id": "AS_Button_f65de1b797f44751b754da64bd8b5682",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			},
+			{
+				"datatype": "collection",
+				"name": "context"
+			}
+		],
+		"contextObj": {
+			"KUID": "fd71ca15623b4af5a44dd7a02de16bf4",
+			"name": "CopytmpDropdownKA",
+			"platform": "",
+			"type": "templates"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__cc1eb432be5f465685badd0d1635c984",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "this.executeOnParent(\"idTypeRowClicked\");",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

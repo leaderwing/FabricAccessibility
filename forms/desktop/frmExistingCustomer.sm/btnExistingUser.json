@@ -1,0 +1,120 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": ""
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s458e403bdae4789b347d753ac402039",
+    "_text_": "Login to continue",
+    "_top_": {
+        "type": "string",
+        "value": "21%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s1a5f35cafb14b05963ac55bccd9358a"
+        }
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s81c79bc40a442038fc2ebbe6a0d9ea6",
+    "hoverskin": "",
+    "id": "btnExistingUser",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ifb16a09e5e94e46a69feffdcb1f33d5",
+    "name": "kony.ui.Button",
+    "parent": "flxExistingUser",
+    "pf": "frmExistingCustomer",
+    "responsiveData": {
+        "b2": {
+            "desktopweb": {
+                "psp": {}
+            },
+            "disabledSkins": {},
+            "height": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "70%"
+            },
+            "width": {
+                "type": "string",
+                "value": "55%"
+            }
+        },
+        "b3": {
+            "desktopweb": {
+                "psp": {}
+            },
+            "disabledSkins": {},
+            "height": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "isVisible": true,
+            "top": {
+                "type": "string",
+                "value": "180dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "180dp"
+            }
+        },
+        "b4": {
+            "desktopweb": {
+                "psp": {}
+            },
+            "disabledSkins": {},
+            "height": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "10dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "180dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.onboarding.existentmember.logintocontinue",
+    "wType": "Button",
+    "zindex": 1
+}

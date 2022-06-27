@@ -1,0 +1,199 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s04caf1d22ba4135af1acb3c13ba1f0d",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "flxDropDown": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "eb54bfa77e6d451aaaed3db8eb4662ce",
+                "srcKUID": "u2dc023540d544a1a73947156ed32441",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxNoProductsSelected": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c2d5348060f847a7b1c788c0a4f4226a",
+                "srcKUID": "j310d8b200854ca7aa4553efb016c101",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxProductName": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b15674a0df054fca864599c6f1692a93",
+                "srcKUID": "ua3c401d6c7644cf92a87596a74e3cea",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSegContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e519e2c874f644e5863d361c18930c61",
+                "srcKUID": "u2d6aabccf6a4faf91a9c040eb777cbc",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSelectProduct": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a765723d300b47848c6af9f12138627f",
+                "srcKUID": "u64e2124b0754fb0aed25161aa80f5e0",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxTitleValue": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j2fabbf923a44e6081eea528dd7cb07c",
+                "srcKUID": "gb353e56b42246309bec46cc188495d3",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgDropDown": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fe445956978c4d2884d42495f87a1f14",
+                "srcKUID": "u31565e6ffb54398828b7049a1b4c5ae",
+                "wType": "Image"
+            },
+            "src": "dropdowniconup.png"
+        },
+        "imgNoResult": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "jc9f00393f5c4a489c250ff2327284e2",
+                "srcKUID": "d289915d2a0846c49febfb1e38f3632d",
+                "wType": "Image"
+            }
+        },
+        "lblNoResultDescription": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "gd9be21e9f05443ca68bf719a0d98385",
+                "srcKUID": "jdac9388a7c149b5abc05a86f7951da2",
+                "wType": "Label"
+            }
+        },
+        "lblNoResultFound": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cef71a04a5fe435fbeca97fe3e84b0b7",
+                "srcKUID": "h2d5847d86d046c78ec9efabd00ea3ba",
+                "wType": "Label"
+            }
+        },
+        "lblProductName": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "af9a6639f1a441f29e822de210a76811",
+                "srcKUID": "u30682f0a39c4eed8813fa03d960f9dd",
+                "wType": "Label"
+            },
+            "i18n_text": "kony.onboarding.productselection.LandingPageproduct",
+            "responsiveData": {},
+            "text": "Product(s) from the Landing page"
+        },
+        "segProductOptions": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j2f7d44cb1554948a3931b324de4d12d",
+                "srcKUID": "u653b43c9cdf4aa7b358968aaf951e22",
+                "wType": "Segment"
+            },
+            "data": {
+                "desktop": [
+                    {
+                        "btnKnowMore": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Know more"
+                        },
+                        "imgCheckBox": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "checkbox_inactive_1.png"
+                        },
+                        "imgProduct": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "checkinaccount.png"
+                        },
+                        "lblProductDescription": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "A checking account can often be the foundation of your finances. We offers a variety of account options including a free checking account. Many Banks with free checking accounts do not include the benefits we offers."
+                        },
+                        "lblProductTitle": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Infinity Advanced Checking Account"
+                        }
+                    }
+                ]
+            }
+        },
+        "selectProductsV2": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "aac11d22e9854a6ba424fbeac2e2080b",
+                "srcKUID": "u988b7b5bd0743e593de731bb6c9a292",
+                "wType": "FlexContainer"
+            },
+            "isVisible": true,
+            "responsiveData": {}
+        }
+    },
+    "enablescrolling": true,
+    "id": "LandingPageProducts",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "aac11d22e9854a6ba424fbeac2e2080b",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxSelectedProductComponent",
+    "pf": "frmProductSelectionNew",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "u988b7b5bd0743e593de731bb6c9a292",
+    "wType": "UserWidgetInstance"
+}

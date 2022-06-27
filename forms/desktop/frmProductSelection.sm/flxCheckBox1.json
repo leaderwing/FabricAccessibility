@@ -1,0 +1,68 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "22dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "9dp"
+    },
+    "_skin_": "s11a30496e284b6da901f96728eee64b",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "22dp"
+    },
+    "accessibilityconfig": {},
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "imgCheckBox1"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "desktopweb": {
+        "psp": {}
+    },
+    "disabledSkins": {
+        "hoverSkin": "sb5a0b59ef3849619933ba7f1c827817"
+    },
+    "enablescrolling": true,
+    "id": "flxCheckBox1",
+    "ide_onClick": "AS_FlexContainer_g27afbf34dc44a15942d5cfc6c381f50",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a084826b520a458c9f59595aab926ac5",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxSavingsAccounts1",
+    "pf": "frmProductSelection",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 2
+}

@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se4cbdf6e51f48eda9966caa941c6a19",
+    "_text_": "FAQ",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "accessibilityconfig": {
+        "a11yLabel": "FAQs"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sb6b1dc4c0d64918805aa8e3d5b3630f"
+        }
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "se4cbdf6e51f48eda9966caa941c6a19",
+    "id": "btnFaqs",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b944dd400d92446cac05298aa3a9c3ac",
+    "name": "kony.ui.Button",
+    "parent": "flxDesktopLinks",
+    "pf": "userwidgetmodel",
+    "texti18n": "kony.nuo.common.Faqs",
+    "tooltip": "FAQs",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,125 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s04caf1d22ba4135af1acb3c13ba1f0d",
+    "_top_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "44%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "DateInput": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "ca0ae8233bce40e0b7c2c0552330c22f",
+                "srcKUID": "b2211a78f0fd452d9125dce4ea10c0f4",
+                "wType": "FlexContainer"
+            },
+            "isVisible": true,
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "30dp"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "44%"
+                }
+            }
+        },
+        "flxDateInputKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e831266f7aa74450b8df8e6d0420570c",
+                "srcKUID": "da44411028864b2da0125da0924fad08",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSeparator": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e7b7d87815af40b58691eed3dae2db9d",
+                "srcKUID": "d6b0af495e044da4a5d662b8e8c5fe19",
+                "wType": "FlexContainer"
+            }
+        },
+        "lblDatePlaceholderKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e8e0c48786594471add73c7803c8f3ca",
+                "srcKUID": "c3e5f81d87664b1fb179debe469173ea",
+                "wType": "Label"
+            }
+        },
+        "lblEnteredDateKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ha2fe0d83954468b9628a84ef85e940a",
+                "srcKUID": "b63ffa6b75244160a9f240e6b906c520",
+                "wType": "Label"
+            }
+        },
+        "tbxDateInputKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c49e63b9e67d459ab46280eba1445de0",
+                "srcKUID": "j4522b447c2d4aea85ad04da0d02449b",
+                "wType": "TextField"
+            },
+            "text": ""
+        }
+    },
+    "enablescrolling": true,
+    "id": "DateInput",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "issegmentchild": false,
+    "isvisible": true,
+    "kuid": "ca0ae8233bce40e0b7c2c0552330c22f",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxRow3",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "b2211a78f0fd452d9125dce4ea10c0f4",
+    "wType": "UserWidgetInstance"
+}

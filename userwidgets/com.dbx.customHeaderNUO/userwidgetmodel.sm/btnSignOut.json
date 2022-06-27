@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        20,
+        4,
+        40,
+        4
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "83dp"
+    },
+    "_skin_": "s41b250c0b224da5b71507837faf5aac",
+    "_text_": "Sign Out",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "padding": [
+            20,
+            4,
+            40,
+            4
+        ],
+        "paddingInPixel": true
+    },
+    "displaytext": true,
+    "focusskin": "s41b250c0b224da5b71507837faf5aac",
+    "id": "btnSignOut",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "d519396daa1c489b8135a10523dc1974",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "FlexGroup0j6de1259051b4d",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.popup.signOutHeader",
+    "wType": "Button",
+    "zindex": 1
+}

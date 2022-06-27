@@ -1,0 +1,166 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "accessibilityconfig": {},
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "01",
+    "desktop": {
+        "_data_": [
+            {
+                "lblCountryCodeKA": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "+91"
+                },
+                "lblCountryNameKA": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblLeftBracketKA": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "("
+                },
+                "lblRightBracketKA": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ")"
+                }
+            },
+            {
+                "lblCountryCodeKA": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "+91"
+                },
+                "lblCountryNameKA": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblLeftBracketKA": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "("
+                },
+                "lblRightBracketKA": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ")"
+                }
+            }
+        ],
+        "rowTemplateId": "g73a7069890d437cbc66c0068d27602e",
+        "rowtemplate": "flxDropdownKA",
+        "widgetdatamap": {
+            "flxDropdownKA": "flxDropdownKA",
+            "lblCountryCodeKA": "lblCountryCodeKA",
+            "lblCountryNameKA": "lblCountryNameKA",
+            "lblLeftBracketKA": "lblLeftBracketKA",
+            "lblRightBracketKA": "lblRightBracketKA"
+        }
+    },
+    "disabledSkins": {
+        "rowFocusSkin": "s06af371740f4726a20d784e45e5eff8",
+        "rowSkin": "s034f48fb8b941dfa46d39543ad78b19"
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segDropdownKA",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "g94b849cd1b948da96e783b9a090d23f",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxDropdownKA",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowcounter": 1,
+    "rowfocusskin": null,
+    "rowskin": "s034f48fb8b941dfa46d39543ad78b19",
+    "rowtemplate": "flxDropdownKA",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sae16d75f38f46e29dff30a6e37c2dc6",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": false,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxDropdownKA": "flxDropdownKA",
+        "lblCountryCodeKA": "lblCountryCodeKA",
+        "lblCountryNameKA": "lblCountryNameKA",
+        "lblLeftBracketKA": "lblLeftBracketKA",
+        "lblRightBracketKA": "lblRightBracketKA"
+    },
+    "zindex": 1
+}

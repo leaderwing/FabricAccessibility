@@ -1,0 +1,106 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "number",
+        "value": ""
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "200dp"
+    },
+    "_skin_": "s46949ecd36e49ec84544175cdf30903",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 2,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sc927ffca19e4d5bbf8d67a7a803f228"
+        }
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s46949ecd36e49ec84544175cdf30903",
+    "id": "btnBack",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ef80e98e2ac847d0b400586963aa83c5",
+    "name": "kony.ui.Button",
+    "parent": "flxButtons",
+    "pf": "frmExistingCustomer",
+    "responsiveData": {
+        "b2": {
+            "right": {
+                "type": "string",
+                "value": "25.18%"
+            },
+            "width": {
+                "type": "string",
+                "value": "18.80%"
+            }
+        },
+        "b3": {
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": "2.77%"
+            },
+            "width": {
+                "type": "string",
+                "value": "150dp"
+            }
+        },
+        "b4": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "right": {
+                "type": "string",
+                "value": ""
+            },
+            "top": {
+                "type": "string",
+                "value": "60dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "87.50%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.nuo.common.Back",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,27 @@
+{
+	"AS_Button_b69ad4652b63461a93bdaa1df4ad7a84": {
+		"id": "AS_Button_b69ad4652b63461a93bdaa1df4ad7a84",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"name": "frmProductSelection",
+			"type": "forms",
+			"platform": "",
+			"KUID": "b811f087da774e4cb228335481ca54be"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_e5037575df8c4453953033e3661e0016",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "this.onKnowMore(5);",
+				"parentId": null
+			}
+		]
+	}
+}

@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s78a5f26c9f14cec9ebed1bb46098f80",
+    "_src_": "arrow_down_white.png",
+    "_width_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "55%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "uwu0c254ff60fd4759bdc3555b1eaef73d",
+        "platform": "desktopweb",
+        "templateType": "userwidgets",
+        "topLevelBox": null
+    },
+    "id": "imgTransfers",
+    "imagescalemode": 1,
+    "imagewhiledownloading": "img_transparent_1.png",
+    "info": null,
+    "invokedProperty": "src",
+    "isvisible": false,
+    "kuid": "g99d852a80f44762a407c1526108bcbf",
+    "name": "kony.ui.Image2",
+    "parent": "flxTransfersAndPay",
+    "pf": "userwidgetmodel",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 5
+}

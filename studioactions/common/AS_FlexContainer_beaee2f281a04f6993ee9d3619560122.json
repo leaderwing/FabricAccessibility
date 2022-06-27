@@ -1,0 +1,31 @@
+{
+	"AS_FlexContainer_beaee2f281a04f6993ee9d3619560122": {
+		"id": "AS_FlexContainer_beaee2f281a04f6993ee9d3619560122",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"name": "uwu94a4da0a2634e0ca1d094e0309d750c",
+			"type": "userwidgets",
+			"KUID": "u94a4da0a2634e0ca1d094e0309d750c"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION__h6ac7c506512473eb217d0792ddcdb09",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "postShowRoadMap",
+				"display": "postShowRoadMap",
+				"inputparams": [],
+				"parentId": null,
+				"callbackType": null,
+				"disabled": null,
+				"source": "controller"
+			}
+		]
+	}
+}

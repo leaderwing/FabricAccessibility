@@ -1,0 +1,33 @@
+{
+  "background_color": "00000000",
+  "bg_type": "one",
+  "border_color": "424242ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "bottom_left_border_color": "424242ff",
+    "bottom_left_border_style": "plain",
+    "bottom_left_border_width": 0,
+    "bottom_right_border_color": "424242ff",
+    "bottom_right_border_style": "plain",
+    "bottom_right_border_width": 0,
+    "customCSS": "/* Please make sure to not \nto assign this skin to anything\n*/\ninput:-webkit-autofill,\ninput:-webkit-autofill:hover, \ninput:-webkit-autofill:focus, \ninput:-webkit-autofill:active, input::-webkit-outer-spin-button,\ninput::-webkit-inner-spin-button {\n/* display: none; <- Crashes Chrome on hover */\n-webkit-appearance: none;\nmargin: 0; /* <-- Apparently some margin are still there even though it's hidden */\n}\ninput[type=number]{\n-moz-appearance:textfield; /* Firefox */\n} \ninput:-internal-autofill-selected{\n  transition: background-color 5000s ease-in-out 0s;\n}\ndiv[kwidgettype=\"Label\"]\n{\n   outline:none !important;\n   cursor:default !important;\n}\ndiv[kwidgettype=\"Label\"]:focus\n{\n   outline:none !important;\n  cursor:default !important;\n}\ninput[kwidgettype=\"TextField\"]:focus\n{\n\t outline:none !important;\n} \ninput[kwidgettype=\"Button\"]:focus\n{\n\t outline:none !important;\n} \ninput[kwidgettype=\"Button\"]:hover\n{\n\t cursor:pointer !important;\n}\ninput[kwidgettype=\"Label\"]:focus\n{\n\toutline:none !important;\n}\n.shellDBX {\n  position: relative;\n  line-height: 1;\n}\n.shellDBX span {\n  position: absolute;\n  left: 3px;\n  top: 1px;\n  color: #ccc;\n  pointer-events: none;\n  z-index: -1;\n}\n.shellDBX span i {\n  font-style: normal;\n  color: transparent;\n  opacity: 0;\n  visibility: hidden;\n}\ninput.maskedDBX,\n.shellDBX span {\n  font-size: 18px;\n  font-family: SourceSansPro-Regular;\n  letter-spacing : 4px;\n  padding-right: 10px;\n  background-color: transparent;\n  outline:none;\n  text-transform: uppercase;\n}\n\ninput::-ms-clear, input::-ms-reveal {\n   display: none;\n}\n\ninput::-webkit-credentials-auto-fill-button {\n  visibility: hidden;\n  pointer-events: none;\n  position: absolute;\n  right: 0;\n}\n.flxPopupBg {\n    border: 0px solid #000000;\n    color: #000000;\n    background-color: rgba(0, 0, 0, 0.5);\n\tposition: fixed !important;\n}\n\n.flxNoScroll{\n    border: 0px solid #000000;\n    color: #000000;\n    background-color: rgba(0, 0, 0, 0);\n\tposition: fixed !important;\n}\n\n.segNoScroll {\n    margin: 0px;\n    border-bottom: 0px solid #000000;\n    font: normal normal 16.0px Helvetica;\n    color: #000000;\n    list-style: none;\n    background-color: rgba(255, 255, 255, 0.0);\n\toverflow: hidden !important;\n}",
+    "isCustomCSSEnabled": true,
+    "isForked": true,
+    "top_left_border_color": "424242ff",
+    "top_left_border_style": "plain",
+    "top_left_border_width": 0,
+    "top_right_border_color": "424242ff",
+    "top_right_border_style": "plain",
+    "top_right_border_width": 0
+  },
+  "font_color": "424242ff",
+  "font_name": "Helvetica",
+  "font_size": 215,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "isDefaultSkin": false,
+  "kuid": "s894d462907046a988bcc2eb21259d5f",
+  "wType": "Label"
+}

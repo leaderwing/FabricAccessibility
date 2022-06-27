@@ -1,0 +1,81 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": "100%",
+    "_left_": "0dp",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s04caf1d22ba4135af1acb3c13ba1f0d",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": "100%",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "flxLoadingWrapper": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d7ebe2274ec84b15b5e27e1d1814f9ff",
+                "srcKUID": "g01d3276d7bf46e59a22673026a4f0fe",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgLoading": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h3894359576f4de7a49c7ffe2f9e78b5",
+                "srcKUID": "h3b943e23ef840008672f0d85a8493d1",
+                "wType": "Image"
+            },
+            "responsiveData": {
+                "b3": {}
+            },
+            "src": "loading_indicator.gif"
+        },
+        "loading": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "c9f4b839c42c45d9b7ba6878ab42dd6b",
+                "srcKUID": "ia4aec2ba7194ad88e8d374a8d88a70a",
+                "wType": "FlexContainer"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "loading",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "issegmentchild": false,
+    "isvisible": true,
+    "kuid": "c9f4b839c42c45d9b7ba6878ab42dd6b",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxLoading",
+    "pf": "frmProductSelection",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "ia4aec2ba7194ad88e8d374a8d88a70a",
+    "wType": "UserWidgetInstance"
+}

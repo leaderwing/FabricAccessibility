@@ -1,0 +1,37 @@
+{
+	"AS_Form_c3a743f642b74471a927ddb97cb454b1": {
+		"id": "AS_Form_c3a743f642b74471a927ddb97cb454b1",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"name": "frmProductSelection",
+			"type": "forms",
+			"platform": null,
+			"KUID": "b811f087da774e4cb228335481ca54be"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION__ide_postShow_b6b96df3350b4022b4c11dd91f6627d9",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "postShowFunc",
+				"display": "postShowFunc",
+				"inputparams": [],
+				"callbackType": null,
+				"disabled": true,
+				"source": "controller"
+			},
+			{
+				"id": "ADD_SNIPPET_a255c02ec6124d6daa5368e2f8aecc54",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "document.querySelectorAll('label').forEach(function(elem){\nif(elem.textContent === \"\"){\nelem.remove();\n}\n});",
+				"callbackType": null
+			}
+		]
+	}
+}

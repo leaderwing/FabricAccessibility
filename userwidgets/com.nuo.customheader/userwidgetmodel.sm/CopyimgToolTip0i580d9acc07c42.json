@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s78a5f26c9f14cec9ebed1bb46098f80",
+    "_src_": "default_username.png",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "uwu8a6ec125b5849f1b101cb5192deae35",
+        "platform": "desktopweb",
+        "templateType": "userwidgets",
+        "topLevelBox": null
+    },
+    "id": "CopyimgToolTip0i580d9acc07c42",
+    "imagescalemode": 1,
+    "imagewhiledownloading": "img_transparent_1.png",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f5065fdfa2d0406bb7fafd4073fe33c5",
+    "name": "kony.ui.Image2",
+    "parent": "CopyflxUserDetails0b35eb5be884043",
+    "pf": "userwidgetmodel",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 2
+}

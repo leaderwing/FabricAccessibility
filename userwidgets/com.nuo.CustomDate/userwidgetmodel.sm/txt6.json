@@ -1,0 +1,77 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Y",
+    "_skin_": "scb0a388655c4b39bf423e56b4558230",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "13dp"
+    },
+    "accessibilityconfig": {
+        "a11yLabel": "Y2"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "placeholderSkin": "s3e4ba4131a24efb9c8d31326b108327"
+    },
+    "disabledSkins": {},
+    "focusskin": "scb0a388655c4b39bf423e56b4558230",
+    "id": "txt6",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "a784bc825c9645339a1365f9c11093d6",
+    "maxtextlength": 1,
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxDateWrapper",
+    "pf": "userwidgetmodel",
+    "placeholderskin": "s3e4ba4131a24efb9c8d31326b108327",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

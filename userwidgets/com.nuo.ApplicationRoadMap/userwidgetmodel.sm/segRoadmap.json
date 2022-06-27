@@ -1,0 +1,598 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        [
+            {
+                "imgCCAppTick": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "greentickmark_1.png"
+                },
+                "lblCCAppHeaderName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Your Loan"
+                },
+                "lblCCAppHeaderNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "1"
+                },
+                "lblCCAppHeaderStatus": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "In Progress"
+                }
+            },
+            [
+                {
+                    "imgCCAppRowBottomDottedLine": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "dottedlinecut.png"
+                    },
+                    "imgCCAppRowDottedLine": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "dottedlinecut.png"
+                    },
+                    "imgCCAppRowTick": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "greentickmark_1.png"
+                    },
+                    "lblCCAppRowName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Your Loan"
+                    },
+                    "lblCCAppRowNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "1"
+                    },
+                    "lblCCAppRowStatus": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "In Progress"
+                    }
+                },
+                {
+                    "imgCCAppRowBottomDottedLine": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "dottedlinecut.png"
+                    },
+                    "imgCCAppRowDottedLine": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "dottedlinecut.png"
+                    },
+                    "imgCCAppRowTick": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "greentickmark_1.png"
+                    },
+                    "lblCCAppRowName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Your Loan"
+                    },
+                    "lblCCAppRowNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "1"
+                    },
+                    "lblCCAppRowStatus": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "In Progress"
+                    }
+                },
+                {
+                    "imgCCAppRowBottomDottedLine": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "dottedlinecut.png"
+                    },
+                    "imgCCAppRowDottedLine": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "dottedlinecut.png"
+                    },
+                    "imgCCAppRowTick": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "greentickmark_1.png"
+                    },
+                    "lblCCAppRowName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Your Loan"
+                    },
+                    "lblCCAppRowNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "1"
+                    },
+                    "lblCCAppRowStatus": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "In Progress"
+                    }
+                },
+                {
+                    "imgCCAppRowBottomDottedLine": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "dottedlinecut.png"
+                    },
+                    "imgCCAppRowDottedLine": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "dottedlinecut.png"
+                    },
+                    "imgCCAppRowTick": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "greentickmark_1.png"
+                    },
+                    "lblCCAppRowName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Your Loan"
+                    },
+                    "lblCCAppRowNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "1"
+                    },
+                    "lblCCAppRowStatus": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "In Progress"
+                    }
+                },
+                {
+                    "imgCCAppRowBottomDottedLine": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "dottedlinecut.png"
+                    },
+                    "imgCCAppRowDottedLine": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "dottedlinecut.png"
+                    },
+                    "imgCCAppRowTick": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "greentickmark_1.png"
+                    },
+                    "lblCCAppRowName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Your Loan"
+                    },
+                    "lblCCAppRowNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "1"
+                    },
+                    "lblCCAppRowStatus": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "In Progress"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "imgCCAppTick": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "greentickmark_1.png"
+                },
+                "lblCCAppHeaderName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Your Loan"
+                },
+                "lblCCAppHeaderNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "1"
+                },
+                "lblCCAppHeaderStatus": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "In Progress"
+                }
+            },
+            [
+                {
+                    "imgCCAppRowBottomDottedLine": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "dottedlinecut.png"
+                    },
+                    "imgCCAppRowDottedLine": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "dottedlinecut.png"
+                    },
+                    "imgCCAppRowTick": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "greentickmark_1.png"
+                    },
+                    "lblCCAppRowName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Your Loan"
+                    },
+                    "lblCCAppRowNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "1"
+                    },
+                    "lblCCAppRowStatus": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "In Progress"
+                    }
+                },
+                {
+                    "imgCCAppRowBottomDottedLine": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "dottedlinecut.png"
+                    },
+                    "imgCCAppRowDottedLine": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "dottedlinecut.png"
+                    },
+                    "imgCCAppRowTick": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "greentickmark_1.png"
+                    },
+                    "lblCCAppRowName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Your Loan"
+                    },
+                    "lblCCAppRowNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "1"
+                    },
+                    "lblCCAppRowStatus": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "In Progress"
+                    }
+                },
+                {
+                    "imgCCAppRowBottomDottedLine": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "dottedlinecut.png"
+                    },
+                    "imgCCAppRowDottedLine": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "dottedlinecut.png"
+                    },
+                    "imgCCAppRowTick": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "greentickmark_1.png"
+                    },
+                    "lblCCAppRowName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Your Loan"
+                    },
+                    "lblCCAppRowNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "1"
+                    },
+                    "lblCCAppRowStatus": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "In Progress"
+                    }
+                },
+                {
+                    "imgCCAppRowBottomDottedLine": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "dottedlinecut.png"
+                    },
+                    "imgCCAppRowDottedLine": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "dottedlinecut.png"
+                    },
+                    "imgCCAppRowTick": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "greentickmark_1.png"
+                    },
+                    "lblCCAppRowName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Your Loan"
+                    },
+                    "lblCCAppRowNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "1"
+                    },
+                    "lblCCAppRowStatus": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "In Progress"
+                    }
+                },
+                {
+                    "imgCCAppRowBottomDottedLine": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "dottedlinecut.png"
+                    },
+                    "imgCCAppRowDottedLine": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "dottedlinecut.png"
+                    },
+                    "imgCCAppRowTick": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "greentickmark_1.png"
+                    },
+                    "lblCCAppRowName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Your Loan"
+                    },
+                    "lblCCAppRowNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "1"
+                    },
+                    "lblCCAppRowStatus": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "In Progress"
+                    }
+                }
+            ]
+        ]
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "number",
+        "value": "20"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "counter": "05",
+    "desktop": {
+        "_data_": [
+            {
+                "imgDottedLower": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "dottedlinecut.png"
+                },
+                "imgDottedUpper": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "dottedlinecut.png"
+                },
+                "imgTick": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "success_icon.png"
+                },
+                "lblNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "1"
+                },
+                "lblStatus": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "In Progress"
+                },
+                "lblTitle": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Your Loan"
+                }
+            },
+            {
+                "imgDottedLower": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "dottedlinecut.png"
+                },
+                "imgDottedUpper": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "dottedlinecut.png"
+                },
+                "imgTick": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "success_icon.png"
+                },
+                "lblNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "1"
+                },
+                "lblStatus": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "In Progress"
+                },
+                "lblTitle": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Your Loan"
+                }
+            },
+            {
+                "imgDottedLower": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "dottedlinecut.png"
+                },
+                "imgDottedUpper": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "dottedlinecut.png"
+                },
+                "imgTick": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "success_icon.png"
+                },
+                "lblNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "1"
+                },
+                "lblStatus": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "In Progress"
+                },
+                "lblTitle": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Your Loan"
+                }
+            },
+            {
+                "imgDottedLower": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "dottedlinecut.png"
+                },
+                "imgDottedUpper": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "dottedlinecut.png"
+                },
+                "imgTick": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "success_icon.png"
+                },
+                "lblNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "1"
+                },
+                "lblStatus": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "In Progress"
+                },
+                "lblTitle": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Your Loan"
+                }
+            },
+            {
+                "imgDottedLower": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "dottedlinecut.png"
+                },
+                "imgDottedUpper": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "dottedlinecut.png"
+                },
+                "imgTick": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "success_icon.png"
+                },
+                "lblNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "1"
+                },
+                "lblStatus": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "In Progress"
+                },
+                "lblTitle": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Your Loan"
+                }
+            },
+            {
+                "imgDottedLower": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "dottedlinecut.png"
+                },
+                "imgDottedUpper": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "dottedlinecut.png"
+                },
+                "imgTick": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "success_icon.png"
+                },
+                "lblNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "1"
+                },
+                "lblStatus": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "In Progress"
+                },
+                "lblTitle": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Your Loan"
+                }
+            }
+        ],
+        "rowTemplateId": "d3fd8abd3d4045889af9849972c57481",
+        "rowtemplate": "flxRoadmapRow",
+        "sectionHeaderTemplateId": null,
+        "widgetdatamap": {
+            "flxRoadmapRow": "flxRoadmapRow",
+            "flxSegWrapper": "flxSegWrapper",
+            "imgDottedLower": "imgDottedLower",
+            "imgDottedUpper": "imgDottedUpper",
+            "imgTick": "imgTick",
+            "lblNumber": "lblNumber",
+            "lblStatus": "lblStatus",
+            "lblTitle": "lblTitle"
+        }
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segRoadmap",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a25c4edf0c5c4249ab9630901b2cc07a",
+    "masterdata": {},
+    "mobile": {
+        "_data_": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "rowtemplate": null,
+        "widgetdatamap": {}
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot_2.png",
+    "pageondotimage": "pageondot_2.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "ApplicationRoadMap",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "ea64bc08fa3548f1ad0da017ad637468",
+    "rowcounter": 5,
+    "rowfocusskin": "s06af371740f4726a20d784e45e5eff8",
+    "rowskin": "s06af371740f4726a20d784e45e5eff8",
+    "rowtemplate": "flxCCAppRowHolder",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": "j592df1a763b4acd8ca98812d990ee02",
+    "sectionheaderskin": "sae16d75f38f46e29dff30a6e37c2dc6",
+    "sectionheadertemplate": "flxCCAppHeaderHolder",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa64",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxRoadmapRow": "flxRoadmapRow",
+        "flxSegWrapper": "flxSegWrapper",
+        "imgDottedLower": "imgDottedLower",
+        "imgDottedUpper": "imgDottedUpper",
+        "imgTick": "imgTick",
+        "lblNumber": "lblNumber",
+        "lblStatus": "lblStatus",
+        "lblTitle": "lblTitle"
+    },
+    "zindex": 1
+}

@@ -1,0 +1,216 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_data_": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "12",
+    "desktop": {
+        "_data_": [
+            [
+                {
+                    "lblInfoSectionHeader": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Things to know before you apply"
+                    }
+                },
+                [
+                    {
+                        "lblDot": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "."
+                        },
+                        "lblInfo": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "You should be at least 18 years old"
+                        }
+                    },
+                    {
+                        "lblDot": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "."
+                        },
+                        "lblInfo": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Should be a permanent citizen of your country"
+                        }
+                    },
+                    {
+                        "lblDot": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "."
+                        },
+                        "lblInfo": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "You should not have history of bad credit e.g: undischarged bankruptcy"
+                        }
+                    }
+                ]
+            ],
+            [
+                {
+                    "lblInfoSectionHeader": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "List of requirements for this application"
+                    }
+                },
+                [
+                    {
+                        "lblDot": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "."
+                        },
+                        "lblInfo": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "State-issued identification, driver’s license,  or passport"
+                        }
+                    },
+                    {
+                        "lblDot": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "."
+                        },
+                        "lblInfo": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Social Security Number"
+                        }
+                    },
+                    {
+                        "lblDot": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "."
+                        },
+                        "lblInfo": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Mobile phone that is able to receive text messages"
+                        }
+                    }
+                ]
+            ]
+        ],
+        "rowTemplateId": "hd1611cc5c3245faa6f4bd88d59506f8",
+        "rowtemplate": "flxUsefulInfoRow",
+        "sectionHeaderTemplateId": "f25c1ace57194d1d8f19b621deda84e6",
+        "sectionheadertemplate": "flxUsefulInfoHeader",
+        "widgetdatamap": {
+            "flxUsefulInfoHeader": "flxUsefulInfoHeader",
+            "flxUsefulInfoRow": "flxUsefulInfoRow",
+            "lblDot": "lblDot",
+            "lblInfo": "lblInfo",
+            "lblInfoSectionHeader": "lblInfoSectionHeader"
+        }
+    },
+    "disabledSkins": {
+        "rowFocusSkin": "s6f10e37d2d74e46837bbf5ca42f8fb5",
+        "rowSkin": "s51020f259ac4b75b66227e6e57ecf2c",
+        "sectionHeaderSkin": "s2297781824a4abdb9fbdf2b34925169"
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "segUsefulInfo",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b796343fce3945d2a43e2867bc97eeb8",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "usefulInfo",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowcounter": 2,
+    "rowfocusskin": null,
+    "rowskin": null,
+    "rowtemplate": null,
+    "screenlevelwidget": false,
+    "seccounter": 1,
+    "sectionheaderskin": null,
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": false,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxUsefulInfoHeader": "flxUsefulInfoHeader",
+        "flxUsefulInfoRow": "flxUsefulInfoRow",
+        "lblDot": "lblDot",
+        "lblInfo": "lblInfo",
+        "lblInfoSectionHeader": "lblInfoSectionHeader"
+    },
+    "zindex": 1
+}

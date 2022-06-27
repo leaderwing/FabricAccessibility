@@ -1,0 +1,79 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "220dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s04caf1d22ba4135af1acb3c13ba1f0d",
+    "_top_": {
+        "type": "string",
+        "value": "340dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "TextBoxTest": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "g83f3a407c354ad6abc0e0091006a354",
+                "srcKUID": "e742218ef77741b383931fd373e0530e",
+                "wType": "FlexContainer"
+            }
+        },
+        "TextField0f2fc3e3ef4ee4b": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h3c148a709834df88a1741316a96b5ff",
+                "srcKUID": "d46ded48f3564fcc9394c1f34f0fc3b0",
+                "wType": "TextField"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "TextBoxTest",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "g83f3a407c354ad6abc0e0091006a354",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "TestComp",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "e742218ef77741b383931fd373e0530e",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

@@ -1,0 +1,135 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_skin_": "s04caf1d22ba4135af1acb3c13ba1f0d",
+    "_top_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "44%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "DateInputCopy": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "db0d83e480604fb2a4eca7c784702b42",
+                "srcKUID": "u8cfedcedaf545878ddc1652ff0e5217",
+                "wType": "FlexContainer"
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": "4%"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "30dp"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "44%"
+                }
+            }
+        },
+        "flxDateInputKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ae47bc3bf84c40a18a4639943365e36d",
+                "srcKUID": "uc4fbbcd89ea4e73949959f7f6472f08",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSeparator": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j486deb2462e47c4ab54f7ffa4b4a6e2",
+                "srcKUID": "u4885fb8a7ed40d78e6ac4df49189f08",
+                "wType": "FlexContainer"
+            }
+        },
+        "lblDatePlaceholderKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "dc9943303c9b4cf28e3f8f3e1cda0ea8",
+                "srcKUID": "u93a032fa60e4a11b179fc726c7607a1",
+                "wType": "Label"
+            }
+        },
+        "lblEnteredDateKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a66fbbe0f175448887478413b0c78351",
+                "srcKUID": "ua1b98df251045558054cf762deb50b4",
+                "wType": "Label"
+            }
+        },
+        "tbxDateInputKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e2b444b0e11646af85fed4e5facc8c2c",
+                "srcKUID": "u6b769485d8e4ccba1cc6f720e61fc09",
+                "wType": "TextField"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "expiryDateComponent",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "issegmentchild": false,
+    "isvisible": true,
+    "kuid": "db0d83e480604fb2a4eca7c784702b42",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxRow4",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "u8cfedcedaf545878ddc1652ff0e5217",
+    "wType": "UserWidgetInstance"
+}

@@ -1,0 +1,40 @@
+{
+	"AS_Form_jc404c9f3c5f4e55b56fa5f9e10c9928": {
+		"id": "AS_Form_jc404c9f3c5f4e55b56fa5f9e10c9928",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"name": "frmPersonalInfod",
+			"type": "forms",
+			"platform": null,
+			"KUID": "b8f00344403149b2979a95f9ff8e4e41"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION__f027b84e3bdc47509b25dd7c298ff013",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "preShowForm",
+				"display": "preShowForm",
+				"inputparams": [],
+				"parentId": null,
+				"callbackType": null,
+				"disabled": null,
+				"source": "controller"
+			},
+			{
+				"id": "ADD_SNIPPET_h532546d376145d68f92f2f90acd9e84",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "var scope = this.view; \n//scopePresonalInfo = this.view;\nthis.view.UserInformationNUO.atxtPhoneNumber.tbxAnimatedKA.onBeginEditing = function(){\nscope.UserInformationNUO.filterDropdown.flxDropdownKA.setVisibility(false);\nvar scope1 = scope.UserInformationNUO.atxtPhoneNumber;\n          if (scope.UserInformationNUO.atxtPhoneNumber.errorCounter > 0) {\n          scope1.lblErrorMsgKA.setVisibility(false);\n          scope1.flxUnderlineKA.skin = skins.separator;\n          scope1.flxUnderlineKA.height = \"2\";\n          scope1.errorCounter--;\n        }\n        scope1.callAnimationPlace();\n};\n\nthis.view.UserInformationNUO.atbxEmail.tbxAnimatedKA.onBeginEditing = function(){\nscope.UserInformationNUO.filterDropdown.flxDropdownKA.setVisibility(false);\nvar scope2 = scope.UserInformationNUO.atbxEmail;\n          if (scope.UserInformationNUO.atbxEmail.errorCounter > 0) {\n          scope2.lblErrorMsgKA.setVisibility(false);\n          scope2.flxUnderlineKA.skin = skins.separator;\n          scope2.flxUnderlineKA.height = \"2\";\n          scope2.errorCounter--;\n        }\n        scope2.callAnimationPlace();\n};\n\nthis.view.UserInformationNUO.atbxLastName.tbxAnimatedKA.onBeginEditing = function(){\nscope.UserInformationNUO.filterDropdown.flxDropdownKA.setVisibility(false);\nvar scope3 = scope.UserInformationNUO.atbxLastName;\n          if (scope.UserInformationNUO.atbxLastName.errorCounter > 0) {\n          scope3.lblErrorMsgKA.setVisibility(false);\n          scope3.flxUnderlineKA.skin = skins.separator;\n          scope3.flxUnderlineKA.height = \"2\";\n          scope3.errorCounter--;\n        }\n        scope3.callAnimationPlace();\n};\n\nthis.view.UserInformationNUO.atbxFirstName.tbxAnimatedKA.onBeginEditing = function(){\nscope.UserInformationNUO.filterDropdown.flxDropdownKA.setVisibility(false);\nvar scope4 = scope.UserInformationNUO.atbxFirstName;\n          if (scope.UserInformationNUO.atbxFirstName.errorCounter > 0) {\n          scope4.lblErrorMsgKA.setVisibility(false);\n          scope4.flxUnderlineKA.skin = skins.separator;\n          scope4.flxUnderlineKA.height = \"2\";\n          scope4.errorCounter--;\n        }\n        scope4.callAnimationPlace();\n};",
+				"parentId": null,
+				"callbackType": null,
+				"disabled": false
+			}
+		]
+	}
+}

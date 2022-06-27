@@ -1,0 +1,88 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s668863d9b844604a58c5f362f0e0c46",
+    "_text_": "Choose the option that best describes you",
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "45%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblQuestion",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ec32a5e8bf684c96aed92a4759abc66f",
+    "name": "kony.ui.Label",
+    "parent": "flxQuestions",
+    "pf": "frmExistingCustomer",
+    "responsiveData": {
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "3.74%"
+            }
+        },
+        "b3": {
+            "left": {
+                "type": "string",
+                "value": "4.16%"
+            }
+        },
+        "b4": {
+            "left": {
+                "type": "string",
+                "value": "6.25%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.onboarding.existentmember.question.header",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

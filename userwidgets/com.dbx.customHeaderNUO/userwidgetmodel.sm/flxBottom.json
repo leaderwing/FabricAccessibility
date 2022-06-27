@@ -1,0 +1,120 @@
+{
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "number",
+        "value": "10"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0px"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "0px"
+    },
+    "_skin_": "s80b413a7602437a87126664a7bc42df",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "flxBottomMain"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "desktop": {
+        "responsiveconfig": {
+            "offset": {
+                "b1": 1,
+                "b2": 0,
+                "b3": 0
+            },
+            "span": {
+                "b1": 10,
+                "b2": 12,
+                "b3": 12
+            }
+        }
+    },
+    "desktopweb": {
+        "render": true
+    },
+    "enablescrolling": true,
+    "id": "flxBottom",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kiosk": {
+        "render": false
+    },
+    "kuid": "h9a370c6d0554572ac6dfb51bf00bac1",
+    "layouttype": 5,
+    "maxwidth": {
+        "type": "string",
+        "value": "1200px"
+    },
+    "mobile": {
+        "responsiveconfig": {
+            "offset": {
+                "landscape": 0,
+                "portrait": 0
+            },
+            "span": {
+                "landscape": 6,
+                "portrait": 12
+            }
+        }
+    },
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexGroup0c3324f84402b42",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "tablet": {
+        "responsiveconfig": {
+            "offset": {
+                "landscape": 0,
+                "portrait": 0
+            },
+            "span": {
+                "landscape": 3,
+                "portrait": 6
+            }
+        }
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "55dp"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "30"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf626ec8e2564dd58a56bff4488debf4",
+    "_text_": "Please review our <a id=\"esignanchor\" aria-label=\"e sign agreement opens in new tab\"  target=\"_blank\"  href=\"https://apply.usbank.com/api/documents/disclosures/ESIGN_Consent_Agreement_Auth.pdf\">eSign Agreement(opens in new tab)</a> before proceedings.",
+    "_top_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "desktopweb": {
+        "linkFocusSkin": "s0e70ae2454046b199f751d967675606"
+    },
+    "disabledSkins": {},
+    "id": "rtxESignAgreements",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a93d61760af0403d8dc3da99dfb0ce92",
+    "linkskin": "s0e70ae2454046b199f751d967675606",
+    "name": "kony.ui.RichText",
+    "parent": "flxNotes",
+    "pf": "frmExistingCustomer",
+    "responsiveData": {
+        "b2": {},
+        "b3": {},
+        "b4": {}
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}
